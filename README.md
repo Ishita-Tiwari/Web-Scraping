@@ -8,7 +8,7 @@ Welcome to yet another repository. Here you can find a few sample code snippets 
       <img src="https://user-images.githubusercontent.com/51106967/99793940-67ded680-2b4f-11eb-8ca2-c534b1605cd8.gif" alt="gif" width="5000px">
     </td>
     <td>
-      This is essentially what happens when we scrape a website. We get the raw HTML of that page. This is scattered data and we extract what is useful to us. We put the new information together in order to perform other tasks. In this repository, we are doing the same with the following websites: <br><br>
+      This is essentially what happens when we scrape a website. We get the raw HTML of that page. This is our scattered data and we extract what is useful to us from here. We put the newly found information together in order to perform other tasks. In this repository, we are doing the same with the following websites: <br><br>
       <a href="https://www.imdb.com/list/ls000021660/?st_dt=&mode=detail&page=1" target="_blank"><img src = "https://user-images.githubusercontent.com/51106967/99798997-f6efec80-2b57-11eb-9886-c03396956b6a.jpeg" width="90px"></a>
     </td>
   </tr>
