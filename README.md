@@ -10,6 +10,7 @@ Welcome to yet another repository. Here you can find a few sample code snippets 
     <td>
       This is essentially what happens when we scrape a website. We get the raw HTML of that page. This is our scattered data and we extract what is useful to us from here. We put the newly found information together in order to perform other tasks. In this repository, we are doing the same with the following websites: <br><br>
       <a href="https://www.imdb.com/list/ls000021660/?st_dt=&mode=detail&page=1" target="_blank"><img src = "https://user-images.githubusercontent.com/51106967/99798997-f6efec80-2b57-11eb-9886-c03396956b6a.jpeg" width="90px"></a>
+      <a href="https://www.goodreads.com/list/show/6.Best_Books_of_the_20th_Century" target="_blank"><img src="https://user-images.githubusercontent.com/51106967/99821859-8a391a00-2b78-11eb-8b45-a235c9cf76bc.png" width="115px" margin-left="50px"></a>
     </td>
   </tr>
 </table>
