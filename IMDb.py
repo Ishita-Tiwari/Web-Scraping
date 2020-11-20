@@ -41,7 +41,6 @@ for i in range(1, 4):
             for rtng in spn_rtng:
                 rating.append(rtng.text)
                 break
-##        print()
 
 
     ##gets the duration
