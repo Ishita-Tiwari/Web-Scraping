@@ -20,7 +20,7 @@ Welcome to yet another repository. Here you can find a few sample code snippets 
 ##### Note: Before getting started with this, make sure to refer the robots.txt file. Each website defines its policies related to crawling in this text file.
 
 
-Here is the execution of [Goodreads.py](https://github.com/Ishita-Tiwari/Web-Scraping/blob/main/Goodreads.py)
+Here is the execution of [Goodreads.py](https://github.com/Ishita-Tiwari/Web-Scraping/blob/main/Goodreads.py). It takes a couple of seconds to display the data which is essentially because it has to download the entire content first.
 
 
 <p align="center">
