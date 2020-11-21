@@ -23,4 +23,6 @@ Welcome to yet another repository. Here you can find a few sample code snippets 
 Here is the execution of [Goodreads.py](https://github.com/Ishita-Tiwari/Web-Scraping/blob/main/Goodreads.py)
 
 
-![Screen-Recording-2020-11-21-at-2](https://user-images.githubusercontent.com/51106967/99874048-98d01180-2c0a-11eb-893d-3c52f79a3229.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51106967/99874048-98d01180-2c0a-11eb-893d-3c52f79a3229.gif" alt="sr">
+</p>
