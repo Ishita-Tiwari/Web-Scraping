@@ -33,7 +33,7 @@ Here is the execution of [Goodreads.py](https://github.com/Ishita-Tiwari/Web-Scr
 <br>
 
 ### ScoopWhoop
-This page displays content in the form of images. We extract the image url from the HTML and display the image with the help of opencv. These images can be further processed in order to use the written text present in the image.
+This page displays content in the form of images. We extract the image url from the HTML and display the image with the help of opencv. These images can be further processed in order to use the written text present in the image. This is the output of [Scoopwhoop.py](https://github.com/Ishita-Tiwari/Web-Scraping/blob/main/Scoopwhoop.py)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51106967/99881379-760c2000-2c3f-11eb-8df7-7094ad9221ec.gif" alt="sr">
