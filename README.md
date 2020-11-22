@@ -12,6 +12,7 @@ Welcome to yet another repository. Here you can find a few sample code snippets 
       <a href="https://www.goodreads.com/list/show/6.Best_Books_of_the_20th_Century" target="_blank"><img src="https://user-images.githubusercontent.com/51106967/99821859-8a391a00-2b78-11eb-8b45-a235c9cf76bc.png" width="115px" margin-left="50px"></a>
       <a href="https://www.scoopwhoop.com/Khaled-Hosseini-Quotes/" target="_blank"><img src="https://user-images.githubusercontent.com/51106967/99881271-bb7c1d80-2c3e-11eb-8a8e-279eb7db29bd.png" width="55px" margin-left="50px"></a>
       <a href="https://bestofbharat.com/product-tag/vintage/" target="_blank"><img src="https://user-images.githubusercontent.com/51106967/99882987-3434a700-2c4a-11eb-8709-d124c9d44354.png" width="155px" margin-left="50px"></a>
+      <a href="https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/" target="_blank"><img src="https://user-images.githubusercontent.com/51106967/99896595-00906600-2cb8-11eb-8a0e-54b893af247a.png" width="155px" margin-left="50px"></a>
     </td>
   </tr>
 </table>
@@ -47,4 +48,14 @@ The details of products shown on the left have been displayed in the terminal on
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51106967/99883068-cf2d8100-2c4a-11eb-922d-09d502b02288.gif" alt="sr">
+</p>
+
+
+<br>
+
+### GeeksForGeeks
+This particluar page displays important coding questions. [GFG.py]() displays the questions as well as their links on being executed. Here is the output of the provided code.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51106967/99896643-7bf21780-2cb8-11eb-844a-36f912f3591e.gif" alt="sr">
 </p>
