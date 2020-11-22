@@ -54,7 +54,7 @@ The details of products shown on the left have been displayed in the terminal on
 <br>
 
 ### GeeksForGeeks
-This particluar page displays important coding questions. [GFG.py]() displays the questions as well as their links on being executed. Here is the output of the provided code.
+This particluar page displays important coding questions. [GFG.py](https://github.com/Ishita-Tiwari/Web-Scraping/blob/main/GFG.py) displays the questions as well as their links on being executed. Here is the output of the provided code.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51106967/99896643-7bf21780-2cb8-11eb-844a-36f912f3591e.gif" alt="sr">
